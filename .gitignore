@@ -1,0 +1,7 @@
+﻿*.class
+*.exe
+*.out
+*.log
+
+.idea/
+.vscode/
