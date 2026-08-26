@@ -1,19 +1,15 @@
-# Backdoor Acad�mico - Cliente/Servidor via Sockets
+# Backdoor Acadêmico - Cliente/Servidor via Sockets
 
 ## Integrantes
 
 - Nome: DIEGO DE JESUS MODESTO SILVA
-- Matr�cula: 202420362
-
+- Matrícula: 202420362
 
 ## 1. Objetivo
 
-Este projeto foi desenvolvido para estudar a comunica��o de rede entre
-um cliente e um servidor utilizando sockets TCP em Java.
+Este projeto foi desenvolvido para estudar a comunicação de rede entre um cliente e um servidor utilizando sockets TCP em Java.
 
-O projeto tamb�m demonstra, em ambiente controlado de laborat�rio,
-como um processo remoto pode interagir com o shell do sistema
-operacional Windows.
+O projeto também demonstra, em ambiente controlado de laboratório, como um processo remoto pode interagir com o shell do sistema operacional Windows.
 
 ## 2. Tecnologias utilizadas
 
@@ -30,9 +26,9 @@ operacional Windows.
 
 ```text
 backdoor-academico/
-+-- src/
-�   +-- Client.java
-�   +-- Server.java
-+-- .gitignore
-+-- README.md
-+-- LICENSE
+├── src/
+│   ├── Client.java
+│   └── Server.java
+├── .gitignore
+├── README.md
+└── LICENSE
